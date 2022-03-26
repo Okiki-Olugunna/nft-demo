@@ -1,3 +1,3 @@
 Differences between SimpleCollectible & AdvancedCollectible:
-- Upload image to IPFS
-- Make NFT more verifiably scarce/random
+- Uploads image to IPFS
+- Makes NFT more verifiably scarce/random
